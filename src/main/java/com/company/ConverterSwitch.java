@@ -3,22 +3,58 @@ package com.company;
 import com.company.interfaces.Converter;
 
 public class ConverterSwitch implements Converter {
-    /**
-     * This method converts the given number into its corresponding month.
-     * @param monthNumber the number you wish to convert to a month
-     * @return the name of the corresponding month if the parameter value is between 1 and 12; error message otherwise
-     */
+
+    //This method converts the given number into its corresponding month.
     public String convertMonth(int monthNumber) {
-        return "";
+        switch (monthNumber) {
+            case 1:
+                return "January";
+            case 2:
+                return "February";
+            case 3:
+                return "March";
+            case 4:
+                return "April";
+            case 5:
+                return "May";
+            case 6:
+                return "June";
+            case 7:
+                return "July";
+            case 8:
+                return "August";
+            case 9:
+                return "September";
+            case 10:
+                return "October";
+            case 11:
+                return "November";
+            case 12:
+                return "December";
+            default:
+                return "Invalid Input";
+        }
     }
 
-    /**
-     * This method converts the given number into its corresponding day of the week.
-     * @param dayNumber number you wish to convert to a day of the week
-     * @return the name of the corresponding day if the parameter value is between 1 and 7, error message otherwise
-     * The first day of the week is Sunday
-     */
+     // This method converts the given number into its corresponding day of the week.
     public String convertDay(int dayNumber) {
-        return "";
+        switch (dayNumber) {
+            case 1:
+                return "Sunday";
+            case 2:
+                return "Monday";
+            case 3:
+                return "Tuesday";
+            case 4:
+                return "Wednesday";
+            case 5:
+                return "Thursday";
+            case 6:
+                return "Friday";
+            case 7:
+                return "Saturday";
+            default:
+                return "Invalid Input";
+        }
     }
 }
