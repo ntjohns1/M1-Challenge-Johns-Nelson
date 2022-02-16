@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4adf949-a400-4324-a09c-0e68943b299f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CalculatorApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CalculatorObject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/interfaces/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/interfaces/Converter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/test-classes/com/company/ConverterApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/test-classes/com/company/ConverterApplicationTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="c4adf949-a400-4324-a09c-0e68943b299f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
