@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2e52e27-016e-4497-a460-93afac31c9a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/company/ConverterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/company/ConverterIf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/company/ConverterSwitch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/company/interfaces/Converter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/com/company/ConverterIfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/company/ConverterApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/company/ConverterIf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/company/ConverterSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/com/company/interfaces/Converter.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="25AfPiHOgeEuBExd02Y3oNRpVll" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2e52e27-016e-4497-a460-93afac31c9a7" name="Changes" comment="" />
+      <created>1644974789153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644974789153</updated>
+    </task>
+    <servers />
+  </component>
+</project>
