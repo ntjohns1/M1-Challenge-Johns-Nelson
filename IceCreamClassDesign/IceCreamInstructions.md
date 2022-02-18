@@ -18,13 +18,13 @@
 
 Since you will be testing two different `IceCream` classes with the same name, you will need to use the "fully qualified" names of the classes instead of importing them.
 
-For example, if the paths of your two `IceCream` classes are "com.company.factory" and "com.company.pointofsale":
+For example, if the paths of your two `IceCream` classes are "com.company.Factory" and "com.company.pointofsale":
 
 - Example code to create the "factory" version of the `IceCream` class might look like:
 
 ```java
-com.company.factory.IceCream iceCream =
-        new com.company.factory.IceCream(flavor, salePrice, productionCost, productionTime, ingredients);
+com.company.Factory.IceCream iceCream =
+        new com.company.Factory.IceCream(flavor, salePrice, productionCost, productionTime, ingredients);
 ```
 
 - Example code to create the "pointofsale" version of the `IceCream` class might look like:
