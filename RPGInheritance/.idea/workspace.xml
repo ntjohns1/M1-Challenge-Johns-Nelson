@@ -6,11 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="30356070-3efc-44bc-9d39-585c1884e195" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/src/main/java/CalculatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/src/main/java/CalculatorApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/target/classes/CalculatorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/target/classes/CalculatorApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/CharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/CharacterTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       <recent name="com.company" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CharacterTest.shouldSetArrestedValueToTrueForParam">
+  <component name="RunManager" selected="JUnit.CharacterTest.attackMethodShouldPrintFormattedString">
     <configuration name="CharacterTest.attackMethodShouldDecreaseHealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RPGInheritance" />
       <extension name="coverage">
@@ -79,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterTest.shouldInstantiateCharactersWithCorrectValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharacterTest.attackMethodShouldPrintFormattedString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RPGInheritance" />
       <extension name="coverage">
         <pattern>
@@ -89,7 +87,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.CharacterTest" />
-      <option name="METHOD_NAME" value="shouldInstantiateCharactersWithCorrectValues" />
+      <option name="METHOD_NAME" value="attackMethodShouldPrintFormattedString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterTest.shouldPrintFormattedStringToConsole" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RPGInheritance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CharacterTest" />
+      <option name="METHOD_NAME" value="shouldPrintFormattedStringToConsole" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,29 +141,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterTest.shouldSetRunningValueToTrue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="RPGInheritance" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.CharacterTest" />
-      <option name="METHOD_NAME" value="shouldSetRunningValueToTrue" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CharacterTest.attackMethodShouldPrintFormattedString" />
+        <item itemvalue="JUnit.CharacterTest.shouldPrintFormattedStringToConsole" />
         <item itemvalue="JUnit.CharacterTest.shouldSetArrestedValueToTrueForParam" />
-        <item itemvalue="JUnit.CharacterTest.shouldSetArrestedValueToTrueForCharacter" />
-        <item itemvalue="JUnit.CharacterTest.shouldSetRunningValueToTrue" />
-        <item itemvalue="JUnit.CharacterTest.shouldInstantiateCharactersWithCorrectValues" />
         <item itemvalue="JUnit.CharacterTest.attackMethodShouldDecreaseHealth" />
+        <item itemvalue="JUnit.CharacterTest.shouldSetArrestedValueToTrueForCharacter" />
       </list>
     </recent_temporary>
   </component>

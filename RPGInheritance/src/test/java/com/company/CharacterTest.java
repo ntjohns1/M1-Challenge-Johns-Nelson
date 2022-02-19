@@ -1,7 +1,11 @@
 package com.company;
 
 import org.junit.Before;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.contrib.java.lang.system.SystemOutRule;
+
+import java.io.InputStream;
 
 import static org.junit.Assert.*;
 
@@ -10,7 +14,7 @@ public class CharacterTest {
     //------------------------------------------------------------------------------------------------------------------
     //-----------------------------------------          Setup           -----------------------------------------------
     //------------------------------------------------------------------------------------------------------------------
-
+    private InputStream original;
     Farmer farmer;
     Constable constable;
     Warrior warrior;
@@ -20,7 +24,13 @@ public class CharacterTest {
         farmer = new Farmer("farmerBill");
         constable = new Constable("constableRosalyn", "Durham");
         warrior = new Warrior("warriorKyle");
+
+        systemOutRule.clearLog();
+        original = System.in;
     }
+
+    @Rule
+    public final SystemOutRule systemOutRule = new SystemOutRule().enableLog();
 
 
     //------------------------------------------------------------------------------------------------------------------
@@ -47,6 +57,19 @@ public class CharacterTest {
         // Warrior attack power = 10
         warrior.attack(farmer);
         assertEquals(90, farmer.getHealth());
+    }
+
+    @Test
+    public void attackMethodShouldPrintFormattedString() {
+        farmer.attack(constable);
+        constable.attack(warrior);
+        warrior.attack(farmer);
+
+        String output = systemOutRule.getLog();
+        String failMessage = "Incorrect Message";
+        assertTrue(failMessage, output.contains("farmerBill has attacked constableRosalyn for 1 points of damage"));
+        assertTrue(failMessage, output.contains("constableRosalyn has attacked warriorKyle for 5 points of damage"));
+        assertTrue(failMessage, output.contains("warriorKyle has attacked farmerBill for 10 points of damage"));
     }
 
 
@@ -77,5 +100,16 @@ public class CharacterTest {
 
         constable.arrest(farmer);
         assertTrue(farmer.isArrested());
+    }
+
+    @Test
+    public void shouldPrintFormattedStringToConsole() {
+
+        farmer.harvest();
+        String output = systemOutRule.getLog();
+        System.out.println(output);
+        String failMessage = "Incorrect Message";
+        assertTrue(failMessage, output.contains("Hi-ho, hi-ho. It's off to the silo we go!"));
+
     }
 }
