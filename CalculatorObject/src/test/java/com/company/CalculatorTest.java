@@ -106,4 +106,9 @@ public class CalculatorTest {
         assertEquals(failMessage, 0.6898, calc.divide(1.98,2.87), .0001);
 
     }
+
+    @Test(expected = IllegalArgumentException.class)
+    public void shouldThrowWithZeroDenominator() {
+        calc.divide(10, 0);
+    }
 }

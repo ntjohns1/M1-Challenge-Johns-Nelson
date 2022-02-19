@@ -5,18 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4adf949-a400-4324-a09c-0e68943b299f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/factory/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/pointofsale/IceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/test/java/com/company/IceCreamTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatorApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalculatorApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/IceCreamInstructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/IceCreamInstructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPGInheritance/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPGInheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RPGInheritance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGInheritance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPGInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,17 +40,21 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculatorApplication">
+  <component name="RunManager" selected="JUnit.CalculatorTest.shouldThrowWithZeroDenominator">
     <configuration name="CalculatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CalculatorApplication" />
       <module name="CalculatorObject" />
@@ -71,16 +67,6 @@
       <option name="PACKAGE_NAME" value="com.company" />
       <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.shouldReturnProductOfTwoDoubles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="CalculatorObject" />
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
-      <option name="METHOD_NAME" value="shouldReturnProductOfTwoDoubles" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,13 +97,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest.shouldThrowWithZeroDenominator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CalculatorObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.CalculatorTest" />
+      <option name="METHOD_NAME" value="shouldThrowWithZeroDenominator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest.shouldThrowWithZeroDenominator" />
         <item itemvalue="Application.CalculatorApplication" />
         <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="JUnit.CalculatorTest.shouldReturnQuotientOfTwoInts" />
         <item itemvalue="JUnit.CalculatorTest.shouldReturnQuotientOfTwoDoubles" />
-        <item itemvalue="JUnit.CalculatorTest.shouldReturnProductOfTwoDoubles" />
       </list>
     </recent_temporary>
   </component>
