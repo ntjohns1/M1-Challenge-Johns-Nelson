@@ -31,6 +31,13 @@ public abstract class Character {
         opponent.decreaseHealth(this.attackPower);
     }
 
+    // Overload to decrement shield strength for Warrior class
+    public void attack(Warrior opponent) {
+        System.out.format("%s has attacked %s for %d points of damage%n", this.name, opponent.getName(), this.attackPower);
+        opponent.decreaseHealth(this.attackPower);
+        opponent.decreaseShieldStrength(this.attackPower);
+    }
+
     public void heal(int amount) {
         this.health += amount;
     }
