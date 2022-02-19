@@ -1,14 +1,7 @@
+package com.company;
+
 public class CalculatorApplication {
     public static void main(String[] args) {
-//                - 1 + 1
-//                - 23 - 52
-//                - 34 * 2
-//                - 12 / 3
-//                - 12 / 7
-//                - 3.4 + 2.3
-//                - 6.7 * 4.4
-//                - 5.5 - 0.5
-//                - 10.8 / 2.2
 
         Calculator calc = new Calculator();
 
