@@ -22,12 +22,12 @@ public class IceCream {
     public void makeSale(int scoops) {
         // decrement the stock of this flavor, assuming a 4 ounce scoop
         this.quantity -= scoops * 4;
-        System.out.format("The sale price is $%.2f ", scoops * salePrice);
+        System.out.format("The sale price is $%.2f%n", scoops * salePrice);
     }
 
     public void voidSale(int scoops){
         this.quantity += scoops * 4;
-        System.out.format("Your refund is $%.2f ", scoops * salePrice);
+        System.out.format("Your refund is $%.2f%n", scoops * salePrice);
     }
 
     public String getFlavor() {

@@ -1,7 +1,9 @@
 package com.company.factory;
 
 import org.junit.Before;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.contrib.java.lang.system.SystemOutRule;
 
 import static org.junit.Assert.*;
 
@@ -35,10 +37,14 @@ public class IceCreamTest {
 
     }
 
+    @Rule
+    public final SystemOutRule systemOutRule = new SystemOutRule().enableLog();
+
     //------------------------------------------------------------------------------------------------------------------
     // Tests for Factory Class
     //------------------------------------------------------------------------------------------------------------------
 
+    // Class IceCream: public method replaceIngredient()
     @Test
     public void shouldReplaceIngredientArrayElementAtIndex() {
         String[] expected1 = new String[]{"Milk", "Sugar", "Salt", "Vanilla Syrup"};
@@ -54,6 +60,7 @@ public class IceCreamTest {
         assertArrayEquals(expected3, strawberry.getIngredients());
     }
 
+    // Class IceCream: public method addNewIngredient()
     @Test
     public void shouldCreateNewArrayWithAdditionalIngredient() {
         String[] expected1 = new String[]{"Milk", "Sugar", "Salt", "Vanilla Extract", "Cream"};
@@ -69,38 +76,22 @@ public class IceCreamTest {
         assertArrayEquals(expected3, strawberry.getIngredients());
     }
 
+    // Class IceCream: public method getProductionTime()
     @Test
     public void shouldPrintCorrectProductionTimeForQuantity() {
-//        System.out.format("Your order of 4 gallons of %s ice cream will take %d hours to produce%n", "vanilla", vanilla.getProductionTime() * 4);
-//        System.out.format("It will cost %.2f to produce and should be sold at %.2f %n", productionCost * quantity, salePrice * quantity);
         assertEquals(12, vanilla.getProductionTime() * 6);
         assertEquals(36, chocolate.getProductionTime() * 12);
         assertEquals(9, strawberry.getProductionTime() * 3);
     }
 
+    // Class IceCream: public method getProductionCost()
     @Test
     public void shouldPrintCorrectProductionCostForOrder() {
-//        System.out.format("Your order of 4 gallons of %s ice cream will take %d hours to produce%n", "vanilla", vanilla.getProductionTime() * 4);
-//        System.out.format("It will cost %.2f to produce and should be sold at %.2f %n", productionCost * quantity, salePrice * quantity);
         assertEquals(1.2, vanilla.getProductionCost() * 6, .01);
         assertEquals(2.64, chocolate.getProductionCost() * 12, .01);
         assertEquals(.75, strawberry.getProductionCost() * 3, .01);
     }
 
-    @Test
-    public void shouldPrintCorrectSalePriceForOrder() {
-        assertEquals(4.20, vanilla.getSalePrice() * 6, .01);
-        assertEquals(8.4, chocolate.getSalePrice() * 12, .01);
-        assertEquals(2.10, strawberry.getSalePrice() * 3, .01);
-    }
 
-//    // Tests for Point of Sale Class
-//    public void shouldAddIntValueToQuantity() {
-//    }
-//
-//    public void shouldDecrementQuantityAndWritePriceToConsole() {
-//    }
-//
-//    public void shouldInrementQuantityAndWriteMessageToConsole() {
 
 }
