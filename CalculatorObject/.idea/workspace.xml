@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4adf949-a400-4324-a09c-0e68943b299f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../RPGInheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPGInheritance/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.shouldThrowWithZeroDenominator">
+  <component name="RunManager" selected="Application.CalculatorApplication">
     <configuration name="CalculatorApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.CalculatorApplication" />
       <module name="CalculatorObject" />
@@ -112,9 +112,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.shouldThrowWithZeroDenominator" />
         <item itemvalue="Application.CalculatorApplication" />
         <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.shouldThrowWithZeroDenominator" />
         <item itemvalue="JUnit.CalculatorTest.shouldReturnQuotientOfTwoInts" />
         <item itemvalue="JUnit.CalculatorTest.shouldReturnQuotientOfTwoDoubles" />
       </list>
