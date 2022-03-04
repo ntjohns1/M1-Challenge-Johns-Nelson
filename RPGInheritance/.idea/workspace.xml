@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="30356070-3efc-44bc-9d39-585c1884e195" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Character.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Constable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Constable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Farmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/CharacterTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
