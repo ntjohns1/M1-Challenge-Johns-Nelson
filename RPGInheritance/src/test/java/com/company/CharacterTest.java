@@ -107,9 +107,8 @@ public class CharacterTest {
 
         farmer.harvest();
         String output = systemOutRule.getLog();
-        System.out.println(output);
         String failMessage = "Incorrect Message";
-        assertTrue(failMessage, output.contains("Hi-ho, hi-ho. It's off to the silo we go!"));
+        assertTrue(failMessage, output.contains("farmerBill is harvesting"));
 
     }
 }

@@ -11,11 +11,11 @@ public class Farmer extends Character {
     }
 
     public void plow() {
-        System.out.println("Work, work, work...");
+        System.out.println(this.getName() + " is plowing");
     }
 
     public void harvest() {
-        System.out.println("Hi-ho, hi-ho. It's off to the silo we go!");
+        System.out.println(this.getName() + " is harvesting");
     }
 
     public boolean isPlowing() {

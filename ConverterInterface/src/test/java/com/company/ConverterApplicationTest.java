@@ -1,6 +1,7 @@
 package com.company;
 
 import com.company.interfaces.Converter;
+import com.sun.xml.internal.ws.commons.xmlutil.Converter;
 import org.junit.Before;
 import org.junit.Test;
 
