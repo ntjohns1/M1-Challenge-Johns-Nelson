@@ -22,7 +22,7 @@ public abstract class Character {
     }
 
     public void run() {
-        System.out.println("I AM RUNNING");
+        System.out.format("%s is running%n", this.name);
         this.running = true;
     }
 
@@ -38,7 +38,7 @@ public abstract class Character {
         opponent.decreaseShieldStrength(this.attackPower);
     }
 
-    public void heal(int amount) {
+    public void increaseHealth(int amount) {
         this.health += amount;
     }
 

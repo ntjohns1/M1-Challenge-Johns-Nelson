@@ -5,88 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30356070-3efc-44bc-9d39-585c1884e195" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/src/main/java/com/company/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/src/main/java/com/company/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/src/main/java/com/company/CalculatorApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/src/main/java/com/company/CalculatorApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/src/test/java/com/company/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/src/test/java/com/company/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/target/classes/com/company/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/target/classes/com/company/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/target/classes/com/company/CalculatorApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/target/classes/com/company/CalculatorApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CalculatorObject/target/test-classes/com/company/CalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CalculatorObject/target/test-classes/com/company/CalculatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterIf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/ConverterSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/interfaces/Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/main/java/com/company/interfaces/Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterApplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterIfTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/src/test/java/com/company/ConverterIfTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/ConverterSwitch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/interfaces/Converter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ConverterInterface/target/classes/com/company/interfaces/Converter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ConverterInterface/target/test-classes/com/company/ConverterApplicationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/src/main/java/com/company/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/src/main/java/com/company/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/src/main/java/com/company/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/src/main/java/com/company/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/src/test/java/com/company/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/src/test/java/com/company/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/target/classes/com/company/Address.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/target/classes/com/company/Address.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/target/classes/com/company/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/target/classes/com/company/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CustomerComposition/target/test-classes/com/company/CustomerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CustomerComposition/target/test-classes/com/company/CustomerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/IceCreamInstructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/IceCreamInstructions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/factory/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/factory/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/pointofsale/IceCream.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/main/java/com/company/pointofsale/IceCream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/src/test/java/com/company/factory/IceCreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/test/java/com/company/factory/IceCreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/src/test/java/com/company/pointofsale/IceCreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/src/test/java/com/company/pointofsale/IceCreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/target/classes/com/company/factory/IceCream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/target/classes/com/company/factory/IceCream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/target/classes/com/company/pointofsale/IceCream.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/target/classes/com/company/pointofsale/IceCream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/target/test-classes/com/company/factory/IceCreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/target/test-classes/com/company/factory/IceCreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../IceCreamClassDesign/target/test-classes/com/company/pointofsale/IceCreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../IceCreamClassDesign/target/test-classes/com/company/pointofsale/IceCreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPGInheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPGInheritance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Character.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Constable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Farmer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/company/Warrior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/company/CharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/company/CharacterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/company/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Character.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Farmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Farmer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/company/CharacterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/company/CharacterTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../m1-challenge.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/Constable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/Constable.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
